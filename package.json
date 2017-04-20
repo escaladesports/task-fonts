@@ -1,0 +1,19 @@
+{
+  "name": "task-fonts",
+  "version": "0.0.0",
+  "description": "Webfont conversion task",
+  "main": "index.js",
+  "repository": "https://github.com/escaladesports/task-fonts.git",
+  "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
+  "license": "MIT",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-fontgen": "^0.2.5",
+    "run-sequence": "^1.2.2",
+    "task-error-notify": "https://github.com/escaladesports/task-error-notify.git",
+    "task-notify": "https://github.com/escaladesports/task-notify",
+    "vinyl-paths": "^2.1.0"
+  }
+}
